@@ -1,0 +1,6 @@
+projectKey=udit121
+serverUrl=http://localhost:9000
+serverVersion=8.9.3.48735
+dashboardUrl=http://localhost:9000/dashboard?id=udit121
+ceTaskId=AX4ziucb9mL5aanJKyD5
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AX4ziucb9mL5aanJKyD5
